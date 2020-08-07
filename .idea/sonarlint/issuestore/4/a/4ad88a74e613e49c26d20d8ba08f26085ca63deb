@@ -1,0 +1,10 @@
+
+Wjavascript:S18540"6Remove this useless assignment to variable "sobjects".(ç¤Š¤ÿÿÿÿÿ
+Mjavascript:S1117b"1'moffset' is already declared in the upper scope.(Ö°ÎÒ
+˜javascript:S2681Þ"vThis line will not be executed conditionally; only the first statement will be. The rest will execute unconditionally.(óÜÐ×ûÿÿÿÿ
+Rjavascript:S14813"6Remove the declaration of the unused 'ocofx' variable.(–óãì
+Zjavascript:S14810"9Remove the declaration of the unused 'sobjects' variable.(ç¤Š¤ÿÿÿÿÿ
+Djavascript:S1533"(Remove this use of "Number" constructor.(”„Ùå
+zjavascript:S2703÷"^Add the "let", "const" or "var" keyword to this declaration of "lenstint" to make it explicit.(‘œ‚r
+˜javascript:S2681é"vThis line will not be executed conditionally; only the first statement will be. The rest will execute unconditionally.(óÜÐ×ûÿÿÿÿ
+Rjavascript:S14813"6Remove the declaration of the unused 'ocofy' variable.(–óãì

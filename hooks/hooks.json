@@ -1,0 +1,23 @@
+{
+    "last_remote_check": 1590943174,
+    "hooks": {
+        "test-hook": {
+            "name": "test-hook",
+            "description": "This is my first hook.",
+            "version": "v1.0.0",
+            "enabled": true
+        },
+        "model-log": {
+            "name": "model-log",
+            "description": "Voyager Model Log",
+            "version": "v1.0.2",
+            "enabled": true
+        },
+        "voyager-themes": {
+            "name": "voyager-themes",
+            "description": "This hook will add support for Voyager front-end themes",
+            "version": "0.15",
+            "enabled": true
+        }
+    }
+}
